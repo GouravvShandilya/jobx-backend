@@ -10,7 +10,7 @@ const fileUpload=require("express-fileupload")
 dbconnect()
 
 const corsOptions = {
-    origin: 'https://find-x-frontend.vercel.app',
+    origin: 'https://jobx-frontend.vercel.app/',
     credentials: true,  
   };
 //   http://localhost:5173
